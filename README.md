@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain what `average` returns and what `printSummary` does, then show a real run.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/drive/folders/1W1cZ-YZIjT51fHjUlCajWEhoP60XR7Nv?usp=sharing
 
 
 ## What to build
